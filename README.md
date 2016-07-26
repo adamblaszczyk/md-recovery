@@ -1,5 +1,5 @@
 # md-recovery (Message Digest Recovery)
-[Linux][Windows]
+[Linux] [Windows]
 
 Program lamie skroty (hash'e) MD5 metoda slownikowa. Po uruchomieniu programu trzeba podac nazwe pliku ze skrotami MD5 oraz nazwe pliku slownika.
 
